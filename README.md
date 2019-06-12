@@ -18,3 +18,9 @@ Zone (1-60)
 North OR South of Equator
 
 
+There are two files:
+
+convertToLatLon.cfc is the api that you need to call
+
+convertToLatLon.cfm is the test fine to show you how to use the API
+
